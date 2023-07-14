@@ -1,5 +1,5 @@
-import MyButton from "./Components/Button";
-import Avatar from "./Components/Avatar";
+import MyButton from "./components/Button";
+import Avatar from "./components/Avatar";
 
 const user = {
 
@@ -24,12 +24,6 @@ export default function CodeTalk(){
     </div>
   );
 };
-
-    </div>
-  );
-}
-
-export default App;
 
 // PROBLEM 1
 
